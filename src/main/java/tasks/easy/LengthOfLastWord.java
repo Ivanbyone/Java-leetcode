@@ -1,4 +1,4 @@
-package org.example.easy;
+package tasks.easy;
 
 public class LengthOfLastWord {
 

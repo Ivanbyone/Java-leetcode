@@ -1,4 +1,4 @@
-package org.example.easy;
+package tasks.easy;
 
 import java.util.HashMap;
 import java.util.Stack;
