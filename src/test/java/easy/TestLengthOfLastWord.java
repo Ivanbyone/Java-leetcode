@@ -1,6 +1,6 @@
 package easy;
 
-import org.example.easy.LengthOfLastWord;
+import tasks.easy.LengthOfLastWord;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

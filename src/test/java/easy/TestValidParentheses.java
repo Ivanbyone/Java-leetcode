@@ -1,6 +1,6 @@
 package easy;
 
-import org.example.easy.ValidParentheses;
+import tasks.easy.ValidParentheses;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
