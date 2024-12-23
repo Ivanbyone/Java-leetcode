@@ -1,4 +1,4 @@
-package tasks.easy;
+package tasks.easy.strings;
 
 import java.util.HashMap;
 import java.util.Stack;

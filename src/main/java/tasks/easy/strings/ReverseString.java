@@ -1,4 +1,4 @@
-package tasks.easy;
+package tasks.easy.strings;
 
 public class ReverseString {
 
