@@ -1,6 +1,6 @@
-package easy;
+package easy.strings;
 
-import tasks.easy.LengthOfLastWord;
+import tasks.easy.strings.LengthOfLastWord;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

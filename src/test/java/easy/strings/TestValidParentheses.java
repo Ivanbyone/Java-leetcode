@@ -1,6 +1,6 @@
-package easy;
+package easy.strings;
 
-import tasks.easy.ValidParentheses;
+import tasks.easy.strings.ValidParentheses;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

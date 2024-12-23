@@ -1,8 +1,8 @@
-package easy;
+package easy.strings;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import tasks.easy.ReverseString;
+import tasks.easy.strings.ReverseString;
 
 import static org.junit.jupiter.api.Assertions.*;
 

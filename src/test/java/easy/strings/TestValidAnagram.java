@@ -1,6 +1,6 @@
-package easy;
+package easy.strings;
 
-import tasks.easy.ValidAnagram;
+import tasks.easy.strings.ValidAnagram;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

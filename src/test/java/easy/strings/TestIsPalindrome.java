@@ -1,6 +1,6 @@
-package easy;
+package easy.strings;
 
-import tasks.easy.IsPalindrome;
+import tasks.easy.strings.IsPalindrome;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
