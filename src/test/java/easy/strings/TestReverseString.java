@@ -29,4 +29,20 @@ public class TestReverseString {
         char[] expected = {'h','a','n','n','a', 'H'};
         assertArrayEquals(expected, s);
     }
+
+    @Test
+    public void test3() {
+        char[] s = {'h','e','l','l','o'};
+        testClass.reverseString2(s);
+        char[] expected = {'o', 'l', 'l', 'e', 'h'};
+        assertArrayEquals(expected, s);
+    }
+
+    @Test
+    public void test4() {
+        char[] s = {'H','a','n','n','a', 'h'};
+        testClass.reverseString2(s);
+        char[] expected = {'h','a','n','n','a', 'H'};
+        assertArrayEquals(expected, s);
+    }
 }
